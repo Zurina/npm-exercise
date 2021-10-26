@@ -11,8 +11,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "hello-world": "echo \"Hello World\""
+    "hello-world": "echo \"Hello World\"",
+    "wizard": "echo \"I am Harry Potter\""
   },
-  "author": "",
+  "author": "Zurina",
   "license": "ISC"
 }
